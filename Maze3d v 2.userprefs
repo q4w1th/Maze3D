@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraBehaviour.cs">
+    <Files>
+      <File FileName="Assets\CameraBehaviour.cs" Line="148" Column="5" />
+      <File FileName="Assets\CapsuleBahaviour.cs" Line="31" Column="46" />
+      <File FileName="Assets\playerBehaviour.cs" Line="27" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
